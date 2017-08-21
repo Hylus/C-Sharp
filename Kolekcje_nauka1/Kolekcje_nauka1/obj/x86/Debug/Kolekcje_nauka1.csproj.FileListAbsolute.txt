@@ -1,0 +1,4 @@
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\Kolekcje_nauka1\Kolekcje_nauka1\bin\Debug\Kolekcje_nauka1.exe
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\Kolekcje_nauka1\Kolekcje_nauka1\bin\Debug\Kolekcje_nauka1.pdb
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\Kolekcje_nauka1\Kolekcje_nauka1\obj\x86\Debug\Kolekcje_nauka1.exe
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\Kolekcje_nauka1\Kolekcje_nauka1\obj\x86\Debug\Kolekcje_nauka1.pdb

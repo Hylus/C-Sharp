@@ -1,0 +1,5 @@
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\artfiex mundi\artifex moje zadania\artifex moje zadania\obj\x86\Debug\artifex moje zadania.csprojResolveAssemblyReference.cache
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\artfiex mundi\artifex moje zadania\artifex moje zadania\bin\Debug\artifex moje zadania.exe
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\artfiex mundi\artifex moje zadania\artifex moje zadania\bin\Debug\artifex moje zadania.pdb
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\artfiex mundi\artifex moje zadania\artifex moje zadania\obj\x86\Debug\artifex moje zadania.exe
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_CSHARP\artfiex mundi\artifex moje zadania\artifex moje zadania\obj\x86\Debug\artifex moje zadania.pdb

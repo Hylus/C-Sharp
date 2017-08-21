@@ -1,0 +1,12 @@
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\PWSS\interfejs_uzytkownika_kalkulator\interfejs_uzytkownika_kalkulator\bin\Debug\interfejs_uzytkownika_kalkulator.exe
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\PWSS\interfejs_uzytkownika_kalkulator\interfejs_uzytkownika_kalkulator\bin\Debug\interfejs_uzytkownika_kalkulator.pdb
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\PWSS\interfejs_uzytkownika_kalkulator\interfejs_uzytkownika_kalkulator\obj\x86\Debug\interfejs_uzytkownika_kalkulator.Form1.resources
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\PWSS\interfejs_uzytkownika_kalkulator\interfejs_uzytkownika_kalkulator\obj\x86\Debug\interfejs_uzytkownika_kalkulator.Properties.Resources.resources
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\PWSS\interfejs_uzytkownika_kalkulator\interfejs_uzytkownika_kalkulator\obj\x86\Debug\interfejs_uzytkownika_kalkulator.csproj.GenerateResource.Cache
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\PWSS\interfejs_uzytkownika_kalkulator\interfejs_uzytkownika_kalkulator\obj\x86\Debug\interfejs_uzytkownika_kalkulator.exe
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\PWSS\interfejs_uzytkownika_kalkulator\interfejs_uzytkownika_kalkulator\obj\x86\Debug\interfejs_uzytkownika_kalkulator.pdb
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_PWSS\interfejs_uzytkownika_kalkulator\interfejs_uzytkownika_kalkulator\obj\x86\Debug\interfejs_uzytkownika_kalkulator.exe
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_PWSS\interfejs_uzytkownika_kalkulator\interfejs_uzytkownika_kalkulator\obj\x86\Debug\interfejs_uzytkownika_kalkulator.pdb
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_PWSS\interfejs_uzytkownika_kalkulator\interfejs_uzytkownika_kalkulator\obj\x86\Debug\interfejs_uzytkownika_kalkulator.Form1.resources
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_PWSS\interfejs_uzytkownika_kalkulator\interfejs_uzytkownika_kalkulator\obj\x86\Debug\interfejs_uzytkownika_kalkulator.Properties.Resources.resources
+C:\Users\Hylus\Documents\Visual Studio 2010\Projects\_PWSS\interfejs_uzytkownika_kalkulator\interfejs_uzytkownika_kalkulator\obj\x86\Debug\interfejs_uzytkownika_kalkulator.csproj.GenerateResource.Cache

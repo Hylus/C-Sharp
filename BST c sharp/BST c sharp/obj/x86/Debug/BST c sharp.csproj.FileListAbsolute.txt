@@ -1,0 +1,5 @@
+c:\users\hylus\documents\visual studio 2010\Projects\BST c sharp\BST c sharp\bin\Debug\BST c sharp.exe
+c:\users\hylus\documents\visual studio 2010\Projects\BST c sharp\BST c sharp\bin\Debug\BST c sharp.pdb
+c:\users\hylus\documents\visual studio 2010\Projects\BST c sharp\BST c sharp\obj\x86\Debug\BST c sharp.exe
+c:\users\hylus\documents\visual studio 2010\Projects\BST c sharp\BST c sharp\obj\x86\Debug\BST c sharp.pdb
+C:\Users\Hylus\documents\visual studio 2010\Projects\BST c sharp\BST c sharp\obj\x86\Debug\BST c sharp.csprojResolveAssemblyReference.cache
